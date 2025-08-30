@@ -1,7 +1,7 @@
 import { getToken, clearAuth } from './auth'
 
 // 🔗 Dónde está el backend en desarrollo
-export const API_ORIGIN = 'http://localhost:5050'
+export const API_ORIGIN = 'https://proyecto13-final.onrender.com'
 export const API_BASE = `${API_ORIGIN}/api`
 
 // Única función de fetch reutilizable
